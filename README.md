@@ -76,6 +76,7 @@ This part provides a graphical user interface (GUI) for visualizing network traf
 
 ## Screenshots
 ![screenshots\Screenshot-2023-09-05-111744.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot-2023-09-05-111744.png)
+
 ![screenshots\Screenshot=2023-09-05=111808.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot%3D2023-09-05%3D111808.png)
 
 ## Color meaning
