@@ -54,7 +54,7 @@ To use the Network Analyzer & Monitor, follow these steps:
 - To stop packet capture, press `Ctrl+C`. The tool will gracefully terminate and provide a summary of the captured packets.
 
 ## Screenshot
-![](screenshots/screenshot-2023-09-05-105441.png)
+![screenshots/screenshot-2023-09-05-105441.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot-2023-09-05-105441.png)
 
 
 ## Customization
@@ -75,8 +75,8 @@ This part provides a graphical user interface (GUI) for visualizing network traf
 - Also the script support object-oriented programming (OOP), so you can read the code easily and add few more features as methods.
 
 ## Screenshots
-![](screenshots\Screenshot-2023-09-05-111744.png)
-![](screenshots\Screenshot=2023-09-05=111808.png)
+![screenshots\Screenshot-2023-09-05-111744.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot-2023-09-05-111744.png)
+![screenshots\Screenshot=2023-09-05=111808.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot%3D2023-09-05%3D111808.png)
 
 ## Color meaning
 - <span style="color:red;">Red packet</span> ==> ARP protocol
