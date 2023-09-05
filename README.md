@@ -79,7 +79,7 @@ This part provides a graphical user interface (GUI) for visualizing network traf
 ![screenshots\Screenshot=2023-09-05=111808.png](https://github.com/SaherMuhamed/network-monitor-software/blob/main/screenshots/Screenshot%3D2023-09-05%3D111808.png)
 
 ## Color meaning
-- <p style="color:red;">Red packet</p> ==> ARP protocol
+- #f03c15 - Red packet ==> ARP protocol
 - <p style="color:purple;">Purple packet</p> ==> ICMP protocol
 - <p style="color:green;">Green packet</p> ==> TCP & HTTP protocol
 - <p style="color:blue;">Blue packet</p> ==> UDP protocol
